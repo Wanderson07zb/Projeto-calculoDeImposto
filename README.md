@@ -1,4 +1,4 @@
-# Projeto Calculadora de Imposto de Renda
+![CPT2407290107-300x200](https://github.com/user-attachments/assets/0756448d-ad6b-4562-9e2b-9111339fe156)# Projeto Calculadora de Imposto de Renda
 
 Este é um projeto que utiliza HTML, CSS e JavaScript puro em sua composição. 
 Ele é um projeto prático que aborda alguns conceitos importântes dessas linguagens
@@ -31,8 +31,9 @@ E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 
 EX:
 
-![Gif de Inserção de valores](assets/CPT2407290127-300x370.gif)
+![Gif de Inserção de valores](assets/CPT2407290107-300x200.gif)
+)
 
 RESULTADO:
-![Reultado do projeto](assets/)
+![Reultado do projeto](assets/CPT2407290127-300x370.gif)
 
