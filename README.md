@@ -26,7 +26,7 @@ Este projeto não requer instalação de dependências. Para visualizá-lo, voc�
 
 ## Uso
 
-Para utiliza-lo basta inserir o quanto fatura por ano: valor bruto anual (R$)
+Para utiliza-lo basta inserir o quanto fatura por ano: valor bruto anual (R$) <br>
 E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 
 EX:
