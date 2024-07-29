@@ -5,7 +5,7 @@ Ele é um projeto prático que aborda alguns conceitos importântes dessas lingu
 que são a base para o desenvolvimento Front-end.
 
 ![Imagem da Aplicação Gerando um Relatório](assets/imagemProjetoImpostoDeRenda.png)
-
+<hr>
 
 ## Índice
 
@@ -13,22 +13,24 @@ que são a base para o desenvolvimento Front-end.
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
+<hr>
 ## Descrição
 
 Este projeto é uma aplicação web simples que utiliza HTML para estruturação, CSS para estilização e JavaScript para a lógica. O projeto inclui elementos como **formulários, botões, tabelas, e manipulação de eventos básicos no javaScript**.
 
+<hr>
 ## Instalação
 
 Este projeto não requer instalação de dependências. Para visualizá-lo, você precisa apenas de um navegador web atualizado.
 
+<hr>
 ## Uso
 
-Para utiliza-lo basta inserir o quanto fatura por ano: valor bruto anual (R$) <br>
-E o valor do salário mínimo no momento: valor do salário mínimo (R$)
-Após, será gerado um relatório de pagamentos
+Para utiliza-lo basta inserir o quanto fatura por ano: **valor bruto anual (R$)** <br>
+E o valor do salário mínimo no momento: **valor do salário mínimo (R$)** <br>
+**Após, será gerado um relatório de pagamentos em formato de tabela**.
 
 ### EX:
 
@@ -36,4 +38,6 @@ Após, será gerado um relatório de pagamentos
 
 ### RESULTADO:
 ![Reultado do projeto](assets/CPT2407290127-300x370.gif)
+
+<hr>
 
