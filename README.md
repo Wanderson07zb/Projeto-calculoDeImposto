@@ -36,5 +36,5 @@ E o valor do salário mínimo no momento: **valor do salário mínimo (R$)** <br
 
 ## Contato
 
-- Envie-me um e-mail: [wanderson07zb@gmail.com](wanderson07zb@gmail.com)
+- Envie-me um e-mail: [wanderson07zb@gmail.com](mailto:wanderson07zb@gmail.com)
 - Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/wanderson-aguiar-5b05a231b)
