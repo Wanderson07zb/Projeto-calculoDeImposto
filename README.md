@@ -29,9 +29,10 @@ Este projeto não requer instalação de dependências. Para visualizá-lo, voc�
 Para utiliza-lo basta inserir o quanto fatura por ano: valor bruto anual (R$) <br>
 E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 
-EX:
+### EX:
+
 ![Gif de Inserção de valores](assets/CPT2407290107-300x200.gif)
 
-RESULTADO:
+### RESULTADO:
 ![Reultado do projeto](assets/CPT2407290127-300x370.gif)
 
