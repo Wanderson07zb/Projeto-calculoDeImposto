@@ -4,7 +4,7 @@ Este é um projeto que utiliza HTML, CSS e JavaScript puro em sua composição.
 Ele é um projeto prático que aborda alguns conceitos importântes dessas linguagens
 que são a base para o desenvolvimento Front-end.
 
-![Imagem da Aplicação Gerando um Relatório] (https://drive.google.com/file/d/1_73afr-FrhyKeaVewPu1KtX9DbSd36qv/view?usp=sharing)
+![Imagem da Aplicação Gerando um Relatório](https://drive.google.com/file/d/1_73afr-FrhyKeaVewPu1KtX9DbSd36qv/view?usp=sharing)
 
 
 ## Índice
