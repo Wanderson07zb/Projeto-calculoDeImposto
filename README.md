@@ -22,7 +22,7 @@ Este projeto é uma aplicação web simples que utiliza HTML para estruturação
 
 ## Instalação
 
-Este projeto não requer instalação de dependências. Para visualizá-lo, você precisa apenas de um navegador web.
+Este projeto não requer instalação de dependências. Para visualizá-lo, você precisa apenas de um navegador web atualizado.
 
 ## Uso
 
@@ -32,4 +32,7 @@ E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 EX:
 
 ![Gif de Inserção de valores](assets/CPT2407290107-300x200.gif)
+
+RESULTADO:
+![Reultado do projeto]()
 
