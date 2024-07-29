@@ -4,7 +4,7 @@ Este é um projeto que utiliza HTML, CSS e JavaScript puro em sua composição.
 Ele é um projeto prático que aborda alguns conceitos importântes dessas linguagens
 que são a base para o desenvolvimento Front-end.
 
-![Imagem da Aplicação Gerando um Relatório](https://drive.google.com/file/d/1_73afr-FrhyKeaVewPu1KtX9DbSd36qv/view?usp=sharing)
+![Imagem da Aplicação Gerando um Relatório](assets/imagemProjetoImpostoDeRenda)
 
 
 ## Índice
@@ -31,5 +31,5 @@ E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 
 EX:
 
-![Gif de Inserção de valores](https://drive.google.com/file/d/1fH3mB0Q5C-Qw20mVDI_qSOxiBmMzbH_j/view?usp=sharing)
+![Gif de Inserção de valores](assets/CPT2407290050-636x423.gif)
 
