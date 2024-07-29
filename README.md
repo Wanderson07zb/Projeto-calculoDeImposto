@@ -11,20 +11,16 @@ que são a base para o desenvolvimento Front-end.
 - [Descrição](#descrição)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
 - [Contato](#contato)
 
-**<hr>**
 ## Descrição
 
 Este projeto é uma aplicação web simples que utiliza HTML para estruturação, CSS para estilização e JavaScript para a lógica. O projeto inclui elementos como **formulários, botões, tabelas, e manipulação de eventos básicos no javaScript**.
 
-<hr>
 ## Instalação
 
 Este projeto não requer instalação de dependências. Para visualizá-lo, você precisa apenas de um navegador web atualizado.
 
-<hr>
 ## Uso
 
 Para utiliza-lo basta inserir o quanto fatura por ano: **valor bruto anual (R$)** <br>
@@ -38,5 +34,6 @@ E o valor do salário mínimo no momento: **valor do salário mínimo (R$)** <br
 ### RESULTADO:
 ![Reultado do projeto](assets/CPT2407290127-300x370.gif)
 
-<hr>
-
+## Contato
+![Linkedin](https://www.linkedin.com/in/wanderson-aguiar-5b05a231b)
+![E-mail](wanderson07zb@gmail.com)
