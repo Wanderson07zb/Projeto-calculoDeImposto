@@ -5,7 +5,6 @@ Ele é um projeto prático que aborda alguns conceitos importântes dessas lingu
 que são a base para o desenvolvimento Front-end.
 
 ![Imagem da Aplicação Gerando um Relatório](assets/imagemProjetoImpostoDeRenda.png)
-<hr>
 
 ## Índice
 
@@ -15,7 +14,7 @@ que são a base para o desenvolvimento Front-end.
 - [Contribuição](#contribuição)
 - [Contato](#contato)
 
-<hr>
+**<hr>**
 ## Descrição
 
 Este projeto é uma aplicação web simples que utiliza HTML para estruturação, CSS para estilização e JavaScript para a lógica. O projeto inclui elementos como **formulários, botões, tabelas, e manipulação de eventos básicos no javaScript**.
