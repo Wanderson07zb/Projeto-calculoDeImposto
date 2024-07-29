@@ -31,5 +31,5 @@ E o valor do salário mínimo no momento: valor do salário mínimo (R$)
 
 EX:
 
-![Gif de Inserção de valores](assets/CPT2407290050-636x423.gif)
+![Gif de Inserção de valores](assets/CPT2407290050-300x200.gif)
 
