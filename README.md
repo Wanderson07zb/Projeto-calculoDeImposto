@@ -4,7 +4,7 @@ Este é um projeto que utiliza HTML, CSS e JavaScript puro em sua composição.
 Ele é um projeto prático que aborda alguns conceitos importântes dessas linguagens
 que são a base para o desenvolvimento Front-end.
 
-![Imagem da Aplicação Gerando um Relatório](assets/imagemProjetoImpostoDeRenda)
+![Imagem da Aplicação Gerando um Relatório](assets/imagemProjetoImpostoDeRenda.png)
 
 
 ## Índice
