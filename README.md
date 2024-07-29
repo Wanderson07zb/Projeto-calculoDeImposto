@@ -28,6 +28,7 @@ Este projeto não requer instalação de dependências. Para visualizá-lo, voc�
 
 Para utiliza-lo basta inserir o quanto fatura por ano: valor bruto anual (R$) <br>
 E o valor do salário mínimo no momento: valor do salário mínimo (R$)
+Após, será gerado um relatório de pagamentos
 
 ### EX:
 
