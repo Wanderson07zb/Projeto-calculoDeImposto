@@ -1,4 +1,4 @@
-# Projeto Calculadora de Imposto de Renda
+# Calculadora de Imposto de Renda
 
 Este é um projeto que utiliza HTML, CSS e JavaScript puro em sua composição. 
 Ele é um projeto prático que aborda alguns conceitos importântes dessas linguagens
